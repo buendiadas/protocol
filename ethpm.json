@@ -1,0 +1,18 @@
+{
+  "package_name": "Melon Protocol",
+  "version": "0.1.1",
+  "description": "Contracts of the melon protocol",
+  "authors": [
+    "Melonport AG <admin@melonport.com>"
+  ],
+  "keywords": [
+    "ethereum",
+    "melon",
+    "wealth preservation",
+    "asset managment"
+  ],
+  "dependencies": {
+    "owned": "^0.0.1"
+  },
+  "license": "GPL-3.0"
+}

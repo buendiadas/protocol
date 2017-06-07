@@ -44,7 +44,8 @@
   "dependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.20.0",
-    "bignumber.js": "^2.4.0"
+    "bignumber.js": "^2.4.0",
+    "truffle-hdwallet-provider": "0.0.3"
   },
   "main": "truffle.js"
 }
