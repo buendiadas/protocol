@@ -11,8 +11,6 @@
     "wealth preservation",
     "asset managment"
   ],
-  "dependencies": {
-    "owned": "^0.0.1"
-  },
+  "dependencies": {},
   "license": "GPL-3.0"
 }
