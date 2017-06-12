@@ -1,0 +1,9 @@
+{
+  "name": "protocol",
+  "version": "0.0.1",
+  "dependencies": {
+    "solidity-parser": {
+      "from": "git+https://github.com/ConsenSys/solidity-parser.git#master"
+    }
+  }
+}
